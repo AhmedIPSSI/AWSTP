@@ -1,12 +1,11 @@
-git init -> pour initialiser le projet 
+git init
 
-git add . -> pour ajouter nos fichiers au répertoire prise en compte par notre commit
+git add
 
-git commit –m"Ecrivez un message de votre choix”
+git commit –m
 
-git remote add origin “ici le lien de votre repo” -> exemple :
+git remote add origin 
 
 https://github.com/RSCHAIN/jenkinstest.git
 
-git push -u origin main -> cette commande vous permet de pousser votre code sur votre
-repo 
+git push -u origin main
